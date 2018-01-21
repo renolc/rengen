@@ -1,0 +1,13 @@
+{
+  "name": "rengen",
+  "version": "0.0.1",
+  "description": "Tiny but flexible canvas game engine",
+  "main": "game.js",
+  "keywords": [
+    "game",
+    "engine",
+    "canvas"
+  ],
+  "author": "Phillip 'renolc' Gibson <gibson.phillip.j@gmail.com>",
+  "license": "MIT"
+}
